@@ -1,7 +1,7 @@
 # 4-Month .NET + React Cloud-Native Learning Roadmap
 
 ## Month 1 – Backend & Microservices Foundation
-- [x ] **Week 1: .NET Core API Refresher**
+- [x] **Week 1: .NET Core API Refresher**
   - [ ] Review ASP.NET Core Web API fundamentals
   - [ ] Implement Products CRUD API with EF Core + SQL Server
   - [ ] Apply Repository + Unit of Work pattern
